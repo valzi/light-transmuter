@@ -29,7 +29,7 @@ paginatePath = "page"
 
 [params]
     # Site subtitle (not shown if commented out or set to false)
-    subtitle = "Photography"
+#    subtitle = "Photography"
 
     # Site description
     description = "Photography Blog"
@@ -72,7 +72,7 @@ paginatePath = "page"
 # Define all supported taxonomies (add series to the default)
 [taxonomies]
     tags = "tags"
-    categories = "categories"
+#    categories = "categories"
     series = "series"
 
 
@@ -85,19 +85,13 @@ paginatePath = "page"
 
     # Configure main menu entries (header)
     # Currently set to list all taxonomies and posts
-    [[menu.main]]
-        identifier = "post"
-        name = "Posts"
-        title = "All posts"
-        url = "/posts/"
-        weight = 1
 
-    [[menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        title = "All categories"
-        url = "/categories/"
-        weight = 2
+#    [[menu.main]]
+#        identifier = "categories"
+#        name = "Categories"
+#        title = "All categories"
+#        url = "/categories/"
+#        weight = 2
 
     [[menu.main]]
         identifier = "tags"
@@ -112,6 +106,13 @@ paginatePath = "page"
         title = "All series"
         url = "/series/"
         weight = 2
+
+    [[menu.main]]
+        identifier = "post"
+        name = "Archive"
+        title = "All posts"
+        url = "/posts/"
+        weight = 1
 
 
     # Define the entries for post metadata
