@@ -20,3 +20,4 @@ I believe slowing down (without stopping) is one of the most effective moves tow
 I intend to process and share 1 photo from 4 weeks ago each day. I don't know how long I'll do this. Maybe I'll start working with images from 3 months ago instead. Or 6 months. Or 12.
 
 Maybe I'll eventually apply other constraints like using a 2gb SD card that takes forever to write data. I wish working with film wasn't so expensive or I'd go back to that and only develop it whenever I happen to be in a big city (not very often.)
+

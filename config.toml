@@ -151,3 +151,10 @@ paginatePath = "page"
 
     [permalinks]
         post = "/:year/:month/:filename/"
+
+        [related]
+
+  [[related.indices]]
+  name = "series"
+  weight = 1.0
+  includeNewer = true
