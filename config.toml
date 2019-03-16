@@ -55,7 +55,7 @@ paginatePath = "page"
     showFullContent = true
 
     # If false no pagination is shown when there is nothing to paginate
-    showEmptyPagination = true
+    showEmptyPagination = false
 
     # If false the dates for the posts are not shown
     showMetaDates = true
@@ -149,3 +149,6 @@ paginatePath = "page"
         title = "Some website, using this theme"
         url = "https://www.toor.su"
         weight = 3
+
+    [permalinks]
+        post = "/:year/:month/:filename/"

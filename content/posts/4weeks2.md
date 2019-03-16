@@ -8,7 +8,6 @@ categories: null
 series: 
 - 4 Weeks Later
 ---
-I intend to process and share 1 photo from from 4 weeks ago each day.
 ![4 Weeks 2](4weeks2.jpg)
 
 This is not a good photo. It's still the best of the day. I like the pattern in the fabric of the chair.
