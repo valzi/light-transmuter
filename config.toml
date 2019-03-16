@@ -23,6 +23,8 @@ pygmentsUseClassic = false              # Force use of chroma
 canonifyURLs = true
 preserveTaxonomyNames = true
 
+disqusShortname = "valzi"
+
 # Configure pagination
 paginate = 10
 paginatePath = "page"
@@ -152,9 +154,8 @@ paginatePath = "page"
     [permalinks]
         post = "/:year/:month/:filename/"
 
-        [related]
-
-  [[related.indices]]
-  name = "series"
-  weight = 1.0
-  includeNewer = true
+    [staticman]
+      endpoint = "https://api.staticman.net/v2/entry/"
+      username = "valzi"
+      repository = "light-transmuter"
+      branch = "master"

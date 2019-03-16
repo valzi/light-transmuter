@@ -8,7 +8,12 @@
     {{ partial "post_meta.html" . }}
   </div>
   <div>
-    {{ .Content | replaceRE "<img[^>]*>" "" | safeHTML }}
+    {{ .Content }}
+  </div>
+  <hr>
+  <div>
+    <h2>Comments</h2>
+    {{ template "_internal/disqus.html" . }}
   </div>
 </div>
 {{- end }}
