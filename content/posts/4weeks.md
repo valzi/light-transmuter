@@ -2,8 +2,7 @@
 title: 4 Weeks Ago
 date: 2018-03-13
 draft: false
-tags:
--
+tags: null
 categories: null
 series: 
 - 4 Weeks Ago

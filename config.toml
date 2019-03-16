@@ -72,13 +72,12 @@ paginatePath = "page"
 # Define all supported taxonomies (add series to the default)
 [taxonomies]
     tags = "tags"
-#    categories = "categories"
     series = "series"
-
+#    categories = "categories"
 
 [author]
-    name = "Some Author"
-    email = "mail@example.org"
+    name = "Michael R. Bacon"
+#    email = "mail@example.org"
 
 
 [menu]
@@ -132,23 +131,23 @@ paginatePath = "page"
 
 
     # Add some footer links to your likings
-    [[menu.footer]]
-        name = "GitHub"
-        title = "Theme repository"
-        url = "https://github.com/spookey/slick"
-        weight = 1
+#    [[menu.footer]]
+#        name = "GitHub"
+#        title = "Theme repository"
+#        url = "https://github.com/spookey/slick"
+#        weight = 1
 
-    [[menu.footer]]
-        name = "Slick"
-        title = "Theme page on gohugo.io"
-        url = "https://themes.gohugo.io/slick"
-        weight = 2
+#    [[menu.footer]]
+#        name = "Slick"
+#        title = "Theme page on gohugo.io"
+#        url = "https://themes.gohugo.io/slick"
+#        weight = 2
 
-    [[menu.footer]]
-        name = "Toor"
-        title = "Some website, using this theme"
-        url = "https://www.toor.su"
-        weight = 3
+#    [[menu.footer]]
+#        name = "Toor"
+#        title = "Some website, using this theme"
+#        url = "https://www.toor.su"
+#        weight = 3
 
     [permalinks]
-        posts = "/:year/:month/:filename/"
+        post = "/:year/:month/:filename/"
