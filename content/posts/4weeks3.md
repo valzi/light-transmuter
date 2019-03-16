@@ -1,12 +1,12 @@
 ---
-title: 4 Weeks Later 3
+title: 4 Weeks Ago 3
 date: 2018-03-16
 draft: true
 tags:
 - 1 photo
 categories: null
 series: 
-- 4 Weeks Later
+- 4 Weeks Ago
 ---
 ![4 Weeks 3](4weeks3.jpg)
 

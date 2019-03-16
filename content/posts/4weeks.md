@@ -1,12 +1,12 @@
 ---
-title: 4 Weeks Later
+title: 4 Weeks Ago
 date: 2018-03-13
 draft: false
 tags:
 -
 categories: null
 series: 
-- 4 Weeks Later
+- 4 Weeks Ago
 ---
 Gary Winogrand waited 1-2 years before developing his film.
 

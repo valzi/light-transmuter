@@ -151,4 +151,4 @@ paginatePath = "page"
         weight = 3
 
     [permalinks]
-        post = "/:year/:month/:filename/"
+        posts = "/:year/:month/:filename/"
