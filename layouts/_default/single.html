@@ -11,9 +11,10 @@
     {{ .Content }}
   </div>
   <hr>
+  {{ $related := .Site.RegularPages.Related . }}
   <div>
     <h2>Comments</h2>
-    {{ template "_internal/disqus.html" . }}
+<!--    {{ template "_internal/disqus.html" . }} -->
   </div>
 </div>
 {{- end }}

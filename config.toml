@@ -159,3 +159,11 @@ paginatePath = "page"
       username = "valzi"
       repository = "light-transmuter"
       branch = "master"
+
+  [related]
+  threshold = 80
+  includeNewer = false
+  toLower = false
+  [[related.indices]]
+    name = "series"
+    weight = 10
