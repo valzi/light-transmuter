@@ -13,7 +13,6 @@
   <hr>
   {{ $related := .Site.RegularPages.Related . }}
   <div>
-    <h2>Comments</h2>
       {{ if .Site.Params.staticman }}
       <div class="staticman-comments">
         {{ partial "staticman-comments.html" . }}
