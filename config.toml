@@ -165,6 +165,6 @@ paginatePath = "page"
   [staticman]
         api = "https://api.staticman.net/v3/entry/github/valzi/light-transmuter/master/comments"
         pulls = "https://github.com/valzi/light-transmuter/pulls"
-        recaptcha:
-          sitekey: "6Le6NJgUAAAAACzOcHnmQtNOiSx_URT4dkNbNFcs"
-          secret: "6Le6NJgUAAAAAC48iYsoDemHIxP8d3uFSZUCMHhB"
+        [staticman.recaptcha]
+          sitekey = "6Le6NJgUAAAAACzOcHnmQtNOiSx_URT4dkNbNFcs"
+          secret = "6Le6NJgUAAAAAC48iYsoDemHIxP8d3uFSZUCMHhB"
