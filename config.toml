@@ -154,12 +154,6 @@ paginatePath = "page"
     [permalinks]
         post = "/:year/:month/:filename/"
 
-    [staticman]
-      endpoint = "https://api.staticman.net/v2/entry/"
-      username = "valzi"
-      repository = "light-transmuter"
-      branch = "master"
-
   [related]
   threshold = 80
   includeNewer = false
@@ -167,3 +161,10 @@ paginatePath = "page"
   [[related.indices]]
     name = "series"
     weight = 10
+
+  [staticman]
+        api: https://api.staticman.net/v3/entry/github/valzi/light-transmuter/master/comments
+        pulls: https://github.com/valzi/light-transmuter/pulls
+#        recaptcha:
+#          sitekey: "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
+#          secret: "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
