@@ -8,7 +8,7 @@ categories: null
 series: 
 - 4 Weeks Ago
 ---
-![4 Weeks 3](4weeks3.jpg)
+![4 Weeks 3](/posts/4weeks3.jpg)
 
 [4 weeks ago](https://light-transmuter.netlify.com/posts/4weeks/):
 
