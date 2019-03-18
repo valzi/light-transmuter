@@ -12,7 +12,7 @@
   </div>
   <hr>
   <div>
-<!--    {{ $related := .Site.RegularPages.Related . }} -->
+{{ partial "related.html" . }}
     {{ partial "staticman-comments.html" . }}
   </div>
   <div>
