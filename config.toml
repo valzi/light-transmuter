@@ -163,7 +163,7 @@ paginatePath = "page"
     weight = 10
 
   [staticman]
-        api = "https://api.staticman.net/v3/entry/github/valzi/light-transmuter/master/comments"
+        api = "https://api.staticman.net/v3/entry/github/valzi/light-transmuter/master"
         pulls = "https://github.com/valzi/light-transmuter/pulls"
         [staticman.recaptcha]
           sitekey = "6Le6NJgUAAAAACzOcHnmQtNOiSx_URT4dkNbNFcs"
