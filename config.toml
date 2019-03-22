@@ -1,6 +1,6 @@
 # Set base URL for site - should end with a trailing slash
 baseUrl = "https://light-transmuter.netlify.com/"
-disqusShortname = "valzi"
+disqusShortname = "light-transmuter"
 theme = "slick"
 
 # Site title (not shown if commented out or set to false)
