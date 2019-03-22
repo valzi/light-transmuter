@@ -1,0 +1,20 @@
+---
+title: 4 Weeks Ago 6
+date: 2018-03-16
+draft: false
+tags: X-E1
+categories: null
+series: 
+- 4 Weeks Ago
+---
+![4 Weeks 6](/posts/4weeks6.jpg)
+
+[4 weeks ago](https://light-transmuter.netlify.com/posts/4weeks/):
+
+Watching Mama's return. A joyful moment.
+
+* Feb, 22 2019.
+* FUJIFILM X-E1. 56 mm.
+* ISO 200, f1.2, 1-160 s.
+* Natural Light
+
