@@ -1,6 +1,6 @@
 ---
 title: 4 Weeks Ago 6
-date: 2018-03-16
+date: 2019-03-22
 draft: false
 tags: 
 - XE1
@@ -17,5 +17,5 @@ Watching Mama's return. A joyful moment.
 * Feb, 22 2019.
 * FUJIFILM X-E1. 56 mm.
 * ISO 200, f1.2, 1-160 s.
-* Natural Light
+* Natural Light.
 

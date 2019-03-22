@@ -1,6 +1,6 @@
 ---
 title: 4 Weeks Ago 5
-date: 2018-03-16
+date: 2019-03-20
 draft: false
 tags: null
 categories: null
@@ -17,5 +17,4 @@ I thought this image was going to be about her hand and the leaf, but the ice an
 * FUJIFILM X-E1. 56 mm.
 * ISO 200, f1.2, 1-4000 s.
 * Natural light.
-* Manual.
 

@@ -10,5 +10,23 @@
   <div>
     {{ .Content }}
   </div>
+  <hr>
+  <div>
+    Comments
+    <form method="POST" action="https://api.staticman.net/v3/entry/github/valzi/light-transmuter/master/comments">
+      <input name="options[redirect]" type="hidden" value="https://light-transmuter.netlify.com">
+      <!-- e.g. "2016-01-02-this-is-a-post" -->
+      <label><input name="fields[name]" type="text">Name</label>
+      <label><input name="fields[email]" type="email">E-mail</label>
+      <label><textarea name="fields[message]"></textarea>Message</label>
+      <button type="submit">Go!</button>
+    </form>  -->
+<!--    {{ partial "related.html" . }}
+    {{ partial "staticman-comments.html" . }} -->
+
+<!--    {{ partial "staticman/form-comments" . }}
+    {{ partial "staticman/show-comments" . }} -->
+<!--    {{ template "_internal/disqus.html" . }} -->
+  </div>
 </div>
 {{- end }}
