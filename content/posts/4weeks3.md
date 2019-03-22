@@ -2,7 +2,8 @@
 title: 4 Weeks Ago 3
 date: 2018-03-16
 draft: false
-tags: Ricoh GR 2
+tags: 
+- Ricoh GR 2
 categories: null
 series: 
 - 4 Weeks Ago
