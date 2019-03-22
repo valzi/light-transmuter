@@ -3,7 +3,7 @@ title: 4 Weeks Ago 6
 date: 2019-03-22
 draft: false
 tags: 
-- XE1
+- X-E1
 categories: null
 series: 
 - 4 Weeks Ago
